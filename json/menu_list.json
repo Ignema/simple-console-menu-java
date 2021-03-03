@@ -1,0 +1,3 @@
+[{"title": "Main Menu", "fields": [{"position": 1, "body": "item 1", "target": "SubMenu"}, {"position": 2, "body": "item 2"}]},
+  {"title": "SubMenu", "fields": [{"position": 1, "body": "subitem 1", "action": "printHW"}, {"position": 2, "body": "subitem 2"}]}
+]
